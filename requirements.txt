@@ -1,0 +1,14 @@
+chromadb>=1.0
+rank-bm25>=0.2.2
+scikit-learn>=1.4
+numpy>=1.26
+nltk>=3.8
+langchain-core>=0.3
+fastapi>=0.110
+pydantic>=2
+uvicorn>=0.29
+httpx>=0.27
+pytest>=8
+# optional: neural embeddings and the generative answerer
+# sentence-transformers
+# anthropic

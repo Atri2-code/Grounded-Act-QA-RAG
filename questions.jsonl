@@ -1,0 +1,68 @@
+{"id": "q01", "question": "What exactly counts as a cheque?", "answerable": true, "gold": [["NIA", "6"]], "must_contain": ["drawn on a specified banker"], "split": "test"}
+{"id": "q02", "question": "Which three kinds of paper are negotiable instruments?", "answerable": true, "gold": [["NIA", "13"]], "must_contain": ["promissory note, bill of exchange or cheque"], "split": "test"}
+{"id": "q03", "question": "How many days of grace does a note that is not payable on demand get past its due date?", "answerable": true, "gold": [["NIA", "22"]], "must_contain": ["third day"], "split": "dev"}
+{"id": "q04", "question": "If a holder never presents a cheque to the drawee for payment, are the other parties still liable?", "answerable": true, "gold": [["NIA", "64"]], "must_contain": ["are not liable"], "split": "dev"}
+{"id": "q05", "question": "Do the rules on cheques also cover electronic cheques and truncated cheques?", "answerable": true, "gold": [["NIA", "81A"]], "must_contain": ["electronic cheques and the truncated cheques"], "split": "test"}
+{"id": "q06", "question": "A cheque payable to bearer has a restrictive endorsement on it. Does the bank get discharged by paying the bearer?", "answerable": true, "gold": [["NIA", "85"]], "must_contain": ["notwithstanding any endorsement"], "split": "test"}
+{"id": "q07", "question": "What does the law assume about the date written on a negotiable instrument until proved otherwise?", "answerable": true, "gold": [["NIA", "118"]], "must_contain": ["bearing a date was made or drawn on such date"], "split": "test"}
+{"id": "q08", "question": "What marking makes a cheque crossed generally?", "answerable": true, "gold": [["NIA", "123"]], "must_contain": ["two parallel transverse lines"], "split": "test"}
+{"id": "q09", "question": "What is the maximum prison term when a cheque bounces for insufficient funds?", "answerable": true, "gold": [["NIA", "138"]], "must_contain": ["two years"], "split": "test"}
+{"id": "q10", "question": "Within how many days must the payee send a written demand notice after the bank returns a cheque unpaid?", "answerable": true, "gold": [["NIA", "138"]], "must_contain": ["notice, in writing, to the drawer"], "split": "dev"}
+{"id": "q11", "question": "Within what period from the date it is drawn must a cheque be presented to the bank for the dishonour offence to apply?", "answerable": true, "gold": [["NIA", "138"]], "must_contain": ["within a period of six months"], "split": "dev"}
+{"id": "q12", "question": "Is the holder of a dishonoured cheque presumed to have received it for a debt?", "answerable": true, "gold": [["NIA", "139"]], "must_contain": ["discharge, in whole or in part, of any debt or other liability"], "split": "test"}
+{"id": "q13", "question": "When a company's cheque bounces, who besides the company can be held guilty?", "answerable": true, "gold": [["NIA", "141"]], "must_contain": ["in charge of, and was responsible to, the company"], "split": "test"}
+{"id": "q14", "question": "How long does the payee have to file a complaint in court after the cause of action arises?", "answerable": true, "gold": [["NIA", "142"]], "must_contain": ["within one month"], "split": "test"}
+{"id": "q15", "question": "Which magistrates are allowed to try a cheque dishonour case?", "answerable": true, "gold": [["NIA", "143"], ["NIA", "142"]], "must_contain": ["judicial magistrate of the first class"], "split": "dev"}
+{"id": "q16", "question": "What is the cap on interim compensation a court can order in a cheque case?", "answerable": true, "gold": [["NIA", "143A"]], "must_contain": ["twenty percent of the amount of the cheque"], "split": "test"}
+{"id": "q17", "question": "What does a bank's return memo prove in court?", "answerable": true, "gold": [["NIA", "146"]], "must_contain": ["presume the fact of dishonour"], "split": "test"}
+{"id": "q18", "question": "Can a cheque bounce case be settled between the parties without a trial verdict?", "answerable": true, "gold": [["NIA", "147"]], "must_contain": ["shall be compoundable"], "split": "test"}
+{"id": "q19", "question": "How much must a drawer deposit when appealing a conviction?", "answerable": true, "gold": [["NIA", "148"]], "must_contain": ["minimum of twenty percent"], "split": "test"}
+{"id": "q20", "question": "If a bill falls due on a public holiday, which day is it treated as due?", "answerable": true, "gold": [["NIA", "25"]], "must_contain": ["next preceding business day"], "split": "dev"}
+{"id": "q21", "question": "What can the holder do if a bill of exchange is lost before it is overdue?", "answerable": true, "gold": [["NIA", "45A"]], "must_contain": ["apply to the drawer to give him another bill"], "split": "test"}
+{"id": "q22", "question": "What is the effect of altering a negotiable instrument without the consent of a party?", "answerable": true, "gold": [["NIA", "87"]], "must_contain": ["renders the same void"], "split": "test"}
+{"id": "q23", "question": "Does a cheque marked not negotiable give the new taker a better title?", "answerable": true, "gold": [["NIA", "130"]], "must_contain": ["shall not have, and shall not be capable of giving, a better title"], "split": "test"}
+{"id": "q24", "question": "Who is a holder in due course?", "answerable": true, "gold": [["NIA", "9"]], "must_contain": ["before the amount mentioned in it became payable"], "split": "test"}
+{"id": "q25", "question": "What is the compensation payable on dishonour of a note, bill or cheque?", "answerable": true, "gold": [["NIA", "117"]], "must_contain": ["the amount due upon the instrument"], "split": "dev"}
+{"id": "q26", "question": "Can I drive on a public road without a valid licence?", "answerable": true, "gold": [["MVA", "3"]], "must_contain": ["no person shall drive a motor vehicle in any public place unless he holds an effective driving licence"], "split": "dev"}
+{"id": "q27", "question": "What is the minimum age for driving a motor vehicle?", "answerable": true, "gold": [["MVA", "4"]], "must_contain": ["under the age of eighteen years"], "split": "dev"}
+{"id": "q28", "question": "At what age can someone ride a low-capacity motorcycle?", "answerable": true, "gold": [["MVA", "4"]], "must_contain": ["sixteen years"], "split": "test"}
+{"id": "q29", "question": "How long is a learner's licence valid?", "answerable": true, "gold": [["MVA", "14"]], "must_contain": ["six months"], "split": "dev"}
+{"id": "q30", "question": "How long is a licence to drive a transport vehicle valid?", "answerable": true, "gold": [["MVA", "14"]], "must_contain": ["five years"], "split": "test"}
+{"id": "q31", "question": "Until when can an expired licence still be renewed?", "answerable": true, "gold": [["MVA", "15"]], "must_contain": ["within one year"], "split": "test"}
+{"id": "q32", "question": "How many passengers can a motorcycle rider carry?", "answerable": true, "gold": [["MVA", "128"]], "must_contain": ["more than one person in addition to himself"], "split": "test"}
+{"id": "q33", "question": "From what age must a pillion rider wear a helmet?", "answerable": true, "gold": [["MVA", "129"]], "must_contain": ["above four years of age"], "split": "test"}
+{"id": "q34", "question": "What must a driver do after an accident where someone is injured?", "answerable": true, "gold": [["MVA", "134"]], "must_contain": ["secure medical attention for the injured person"], "split": "dev"}
+{"id": "q35", "question": "Are bystanders who help accident victims protected from legal liability?", "answerable": true, "gold": [["MVA", "134A"]], "must_contain": ["shall not be liable for any civil or criminal action"], "split": "test"}
+{"id": "q36", "question": "Is insurance against third party risk compulsory for using a vehicle in a public place?", "answerable": true, "gold": [["MVA", "146"]], "must_contain": ["policy of insurance complying with the requirements of this chapter"], "split": "test"}
+{"id": "q37", "question": "What is the general fine when an offence has no specific penalty?", "answerable": true, "gold": [["MVA", "177"]], "must_contain": ["one hundred rupees"], "split": "test"}
+{"id": "q38", "question": "What is the punishment for driving while underage or without a licence?", "answerable": true, "gold": [["MVA", "181"]], "must_contain": ["five thousand rupees"], "split": "test"}
+{"id": "q39", "question": "What is the fine for speeding in a light motor vehicle?", "answerable": true, "gold": [["MVA", "183"]], "must_contain": ["not be less than one thousand rupees but may extend to two thousand rupees"], "split": "test"}
+{"id": "q40", "question": "What blood alcohol level counts as drunk driving?", "answerable": true, "gold": [["MVA", "185"]], "must_contain": ["30 mg"], "split": "test"}
+{"id": "q41", "question": "What is the fine for not wearing a seat belt?", "answerable": true, "gold": [["MVA", "194B"]], "must_contain": ["fine of one thousand rupees"], "split": "test"}
+{"id": "q42", "question": "What happens to a rider's licence if caught without a helmet?", "answerable": true, "gold": [["MVA", "194D"]], "must_contain": ["disqualified for holding licence for a period of three months"], "split": "test"}
+{"id": "q43", "question": "What is the penalty for not giving way to an ambulance?", "answerable": true, "gold": [["MVA", "194E"]], "must_contain": ["ten thousand rupees"], "split": "test"}
+{"id": "q44", "question": "What is the penalty for driving without insurance?", "answerable": true, "gold": [["MVA", "196"]], "must_contain": ["two thousand rupees"], "split": "test"}
+{"id": "q45", "question": "If a minor commits a traffic offence who is held responsible?", "answerable": true, "gold": [["MVA", "199A"]], "must_contain": ["guardian of such juvenile or the owner of the motor vehicle shall be deemed to be guilty"], "split": "test"}
+{"id": "q46", "question": "Can a police officer ask me for a breath sample?", "answerable": true, "gold": [["MVA", "203"]], "must_contain": ["specimens of breath"], "split": "test"}
+{"id": "q47", "question": "Can police impound a licence they believe is forged?", "answerable": true, "gold": [["MVA", "206"]], "must_contain": ["false document"], "split": "dev"}
+{"id": "q48", "question": "What is the fine for an overloaded vehicle?", "answerable": true, "gold": [["MVA", "194"]], "must_contain": ["twenty thousand rupees"], "split": "dev"}
+{"id": "q49", "question": "What is the punishment for failing to stop and help after an accident?", "answerable": true, "gold": [["MVA", "187"]], "must_contain": ["six months"], "split": "test"}
+{"id": "q50", "question": "What is the golden hour scheme?", "answerable": true, "gold": [["MVA", "162"]], "must_contain": ["golden hour"], "split": "dev"}
+{"id": "q51", "question": "Which traffic offences can be settled by paying a compounding fee?", "answerable": true, "gold": [["MVA", "200"]], "must_contain": ["section 177"], "split": "test"}
+{"id": "q52", "question": "Is a vehicle allowed to run without registration?", "answerable": true, "gold": [["MVA", "39"]], "must_contain": ["unless the vehicle is registered in accordance with this chapter"], "split": "test"}
+{"id": "q53", "question": "Does a transport vehicle need a certificate of fitness?", "answerable": true, "gold": [["MVA", "56"]], "must_contain": ["unless it carries a certificate of fitness"], "split": "test"}
+{"id": "q54", "question": "What is the Motor Vehicle Accident Fund?", "answerable": true, "gold": [["MVA", "164B"]], "must_contain": ["motor vehicle accident fund"], "split": "dev"}
+{"id": "q55", "question": "Must drivers follow the directions of traffic police?", "answerable": true, "gold": [["MVA", "119"]], "must_contain": ["comply with all directions given to him by any police officer"], "split": "dev"}
+{"id": "u01", "question": "What is the income tax rate for income above ten lakh rupees?", "answerable": false, "gold": [], "must_contain": [], "split": "dev"}
+{"id": "u02", "question": "What GST rate applies to restaurant services?", "answerable": false, "gold": [], "must_contain": [], "split": "dev"}
+{"id": "u03", "question": "What are the grounds for divorce under Hindu law?", "answerable": false, "gold": [], "must_contain": [], "split": "dev"}
+{"id": "u04", "question": "What penalty does the data protection law impose for a personal data breach?", "answerable": false, "gold": [], "must_contain": [], "split": "dev"}
+{"id": "u05", "question": "How many directors must a private company have?", "answerable": false, "gold": [], "must_contain": [], "split": "test"}
+{"id": "u06", "question": "What is the notice period for terminating an employee?", "answerable": false, "gold": [], "must_contain": [], "split": "dev"}
+{"id": "u07", "question": "How long is the term of a patent?", "answerable": false, "gold": [], "must_contain": [], "split": "dev"}
+{"id": "u08", "question": "How do I register a property under the real estate regulator?", "answerable": false, "gold": [], "must_contain": [], "split": "test"}
+{"id": "u09", "question": "What is the minimum wage for a skilled worker?", "answerable": false, "gold": [], "must_contain": [], "split": "test"}
+{"id": "u10", "question": "What is the punishment for murder?", "answerable": false, "gold": [], "must_contain": [], "split": "dev"}
+{"id": "u11", "question": "What is the maximum speed limit in km per hour on an expressway?", "answerable": false, "gold": [], "must_contain": [], "split": "test"}
+{"id": "u12", "question": "What is the exact fee amount for a driving licence?", "answerable": false, "gold": [], "must_contain": [], "split": "test"}
+{"id": "u13", "question": "How many demerit points does a driver get for jumping a signal?", "answerable": false, "gold": [], "must_contain": [], "split": "test"}
